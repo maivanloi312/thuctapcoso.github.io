@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Form_DoiMK",
+      "appliesTo": "Form_DoiMK.cs",
+      "type": "launch"
+    }
+  ]
+}

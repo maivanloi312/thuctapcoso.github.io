@@ -1,0 +1,258 @@
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe.config
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\TRACNGHIEM.pdb
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.AssemblyReference.cache
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DangNhap.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Main.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Properties.Resources.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.GenerateResource.cache
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe.licenses
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CoreCompileInputs.cache
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CopyComplete
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.pdb
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoRole.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_phanquyen.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoLogin.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DoiMK.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_xoa_role_login.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_SoanCH.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_luachon.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_ThiTN.resources
+D:\Thuc tap co so\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_LoginSV.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe.config
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\TRACNGHIEM.pdb
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.AssemblyReference.cache
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DoiMK.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_LoginSV.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_luachon.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_phanquyen.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Restore.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_SoanCH.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoLogin.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoRole.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DangNhap.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Main.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_ThiTN.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_xoa_role_login.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.Properties.Resources.resources
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.GenerateResource.cache
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe.licenses
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CoreCompileInputs.cache
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CopyComplete
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe
+D:\TTCS\TRACNGHIEM\TRACNGHIEM\obj\Debug\TRACNGHIEM.pdb
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe.config
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\TRACNGHIEM.pdb
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.AssemblyReference.cache
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DoiMK.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_LoginSV.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_luachon.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_phanquyen.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Restore.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_SoanCH.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoLogin.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoRole.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DangNhap.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Main.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_ThiTN.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_xoa_role_login.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.Properties.Resources.resources
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.GenerateResource.cache
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe.licenses
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CoreCompileInputs.cache
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CopyComplete
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe
+E:\THUC_TAP_CO_SO\TRACNGHIEM\obj\Debug\TRACNGHIEM.pdb
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.AssemblyReference.cache
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DoiMK.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_LoginSV.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_phanquyen.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Restore.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoLogin.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_TaoRole.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DangNhap.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_Main.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_xoa_role_login.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Properties.Resources.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.GenerateResource.cache
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe.licenses
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CoreCompileInputs.cache
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.exe
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.pdb
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe.config
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\TRACNGHIEM.exe
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\TRACNGHIEM.pdb
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Data.v19.2.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.csproj.CopyComplete
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_FullBackup.resources
+E:\THUC_TAP_CO_SO\NHANH\TRACNGHIEM\obj\Debug\TRACNGHIEM.Form_DiffBackup.resources
